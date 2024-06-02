@@ -1,2 +1,2 @@
-# Demographics-Detector-
+# Demographics-Detector
 Age and Gender Detection Webapp
